@@ -7,7 +7,7 @@ currently, i'm learning technology information content like *web programming*, *
 
 <div align="center">
   <h2>programming languages im learning</h2>
-  <p><b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> and <b>Java</b> <b>mySQL</b>!</p>
+  <p><b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b>, <b>Java</b> and <b>mySQL</b>!</p>
 
   <p align="center">
     <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" /> &nbsp;
